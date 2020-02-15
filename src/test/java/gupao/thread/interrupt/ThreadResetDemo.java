@@ -1,6 +1,4 @@
-package com.dreamlee.gupao.thread.interrupt;
-
-import java.util.concurrent.TimeUnit;
+package gupao.thread.interrupt;
 
 /**
  * @author: DreamLee
